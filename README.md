@@ -1,4 +1,4 @@
-# narayanarun696-Credit-Card-Fraud-Detection
+# Credit-Card-Fraud-Detection
 
 Money laundering is generally understood as the concealment of an illegitimate source of assets, providing an apparent legal origin.
 Money laundering is the illegal process of making huge money generated from criminal activity, such drugs, terrorist funding, which looks like it comes from legitimate source. The money from the criminal activity is considered as dirty, hence the name "laundry". 
